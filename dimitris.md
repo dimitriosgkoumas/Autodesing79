@@ -4,7 +4,7 @@ _← [Back to Team Overview](../../README.md#-team)_
 
 ---
 
-## 📅 Week of 31 March 2026
+## 📅 Week 0
 
 ### 🗓️ Monday — Planning
 
