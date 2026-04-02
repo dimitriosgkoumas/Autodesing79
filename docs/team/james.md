@@ -1,54 +1,54 @@
-# 👤 James — Weekly Project Updates
+# 👤 James — Weekly Log
 
-_This page contains James's weekly progress updates across the SimNet project._
+_← [Back to Team Overview](../../README.md#-team)_
 
 ---
 
 ## 📅 Week of 31 March 2026
 
-### ✅ Completed
-- 
+### 🗓️ Monday — Planning
 
-### 🔄 In Progress
-- 
+**Tasks for this week:**
+- [ ] Task 1 — _why it matters:_
+- [ ] Task 2 — _why it matters:_
+- [ ] Task 3 — _why it matters:_
 
-### 🔜 Next Week
-- 
+**Questions raised during planning:**
+-
 
-### 🚧 Blockers / Notes
-- 
-
----
-
-## 📅 Week of 24 March 2026
-
-### ✅ Completed
-- 
-
-### 🔄 In Progress
-- 
-
-### 🔜 Next Week
-- 
-
-### 🚧 Blockers / Notes
-- 
+**What's missing / can't be done / most important (team input):**
+-
 
 ---
 
-## 📅 Week of 17 March 2026
+### 🔀 Wednesday — Triage
 
-### ✅ Completed
-- 
+**Questions & concerns raised:**
+- James:
 
-### 🔄 In Progress
-- 
+**Decisions / actions taken:**
+-
 
-### 🔜 Next Week
-- 
+**Notes:**
+-
 
-### 🚧 Blockers / Notes
-- 
+---
+
+### 🏁 Friday — Wins & Losses
+
+**Task review:**
+- [ ] Task 1 — ✅ done / ❌ blocked by:
+- [ ] Task 2 — ✅ done / ❌ blocked by:
+- [ ] Task 3 — ✅ done / ❌ blocked by:
+
+**What worked this week?**
+-
+
+**What didn't work this week?**
+-
+
+**Actions for next week based on lessons learned:**
+-
 
 ---
 
